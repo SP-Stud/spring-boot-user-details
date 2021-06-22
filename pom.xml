@@ -2,8 +2,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>123</groupId>
-  <artifactId>123</artifactId>
+  <groupId>spring-boot-user-details</groupId>
+  <artifactId>spring-boot-user-details</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
